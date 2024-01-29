@@ -1,6 +1,5 @@
 ## Hey 👋, I'm jhq223!  
   
-
 <a href="https://github.com/jhq223" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -10,31 +9,13 @@
 <a href="https://stackoverflow.com/users/20549175" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-  
-
-
 
 ### Glad to see you here!  
 I’m a newbie developer.  
-  
-
 <br/>  
-
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🔭 I'm learning rust  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -49,34 +30,15 @@ I’m a newbie developer.
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="25" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 </div>  
-
 <br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=jhq223&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
 </td><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhq223&hide_border=true&layout=compact&hide=css,scss" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
+</td></tr></table>
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=jhq223&&style=flat-square)  
-  
-
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
