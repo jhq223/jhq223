@@ -36,26 +36,13 @@ Rust developer focused on systems programming, CLI tools, and developer tooling.
 
 <table align="center">
   <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="img/stats-dark.svg" />
-        <img src="img/stats-light.svg" height="195" alt="GitHub Stats" />
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="img/langs-dark.svg" />
-        <img src="img/langs-light.svg" height="195" alt="Top Languages" />
-      </picture>
-    </td>
+    <td><img src="https://edge-readme-stats.dancodes.online/stats?username=jhq223&lang=zh&icons=true&size=md" alt="GitHub Stats" /></td>
+    <td><img src="https://edge-readme-stats.dancodes.online/langs?username=jhq223&lang=zh&hide=css,scss&size=md" alt="Top Languages" /></td>
   </tr>
 </table>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jhq223&theme=dark&hide_border=true&background=00000000" />
-    <img src="https://streak-stats.demolab.com?user=jhq223&theme=default&hide_border=true&background=00000000" alt="GitHub Streak" />
-  </picture>
+  <img src="https://edge-readme-stats.dancodes.online/heatmap?username=jhq223&lang=zh" alt="Contribution Heatmap" />
 </p>
 
 ---
